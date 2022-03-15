@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(17, 40, 88);
+}
+.App {
+  text-align: center;
+}
+
+.form-group {
+  padding: 100px 0;
+  border: 6px solid orangered;
+  text-align: center;
+}
+
+h3 {
+  font-style: italic;
+  color: orangered;
+  }
